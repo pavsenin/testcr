@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Type="DevExpress.CodeRush.Foundation.Templates.TemplatesOptions">
+  <Options Language="C#">
+    <RootCategory>
+      <Categories>
+        <Item Id="{b1a5f929-94f2-4b42-a3d2-16cd62aa9b44}">
+          <Templates>
+            <Item Id="{0b17f687-0c61-4a93-9aea-a63444a7f7d0}">
+              <Enabled>True</Enabled>
+              <TemplateName>ddd</TemplateName>
+              <CaseSensitiveName>True</CaseSensitiveName>
+              <Comment></Comment>
+              <ExpansionTrigger>Primary</ExpansionTrigger>
+              <OptSubIndex>-1</OptSubIndex>
+              <IsMultiFile>False</IsMultiFile>
+              <SuppressFormatting>False</SuppressFormatting>
+              <Items>
+                <Item Id="{34451366-15a0-4360-8caf-d37e7e14c05e}">
+                  <Priority>0</Priority>
+                  <Expansion>sdfsdfasdfasdf</Expansion>
+                  <Context></Context>
+                  <AutoTerminator>False</AutoTerminator>
+                  <SuppressLastChar>False</SuppressLastChar>
+                  <UseDoubleEqualsInsideParens>False</UseDoubleEqualsInsideParens>
+                  <UsingClause />
+                </Item>
+              </Items>
+            </Item>
+            <Item Id="{85165404-57c5-4e36-9f64-8bccdbedeb3c}" />
+          </Templates>
+        </Item>
+        <Item Id="{9bc0d39a-b20c-41bb-bd1c-4d08d6d999a9}" />
+        <Item Id="{8e4132de-c894-486f-8004-e2d08d0ba979}" />
+        <Item Id="{2433228d-3ae2-4022-aa52-7ab7a1a3116b}" />
+        <Item Id="{1379a9c1-e7a0-4872-87e5-24ef7c4a1315}" />
+        <Item Id="{80783537-1b32-4a51-b716-b32036574f4f}" />
+        <Item Id="{6b1c63bd-043f-4639-b757-a0c6132270fa}" />
+        <Item Id="{2ff95045-9084-4395-93a8-70d11cc8cdeb}" />
+        <Item Id="{633d268e-6d35-46c7-ac5d-d2885ca35a0d}" />
+        <Item Id="{34b6c10a-ee60-4c30-9f5c-e0c033ce7867}" />
+        <Item Id="{e63d4dbd-49ce-4fd6-ab9d-99e0bfc60b35}" />
+        <Item Id="{f4703284-a160-4272-be22-3366ade5e43f}" />
+        <Item Id="{51f7a921-200c-43e3-944c-54521ed0c201}" />
+        <Item Id="{08077498-5ebe-4300-ad58-bcbf5a3ebac3}" />
+        <Item Id="{90ee1142-998a-40f3-8aa1-fe850f766551}" />
+        <Item Id="{662a95d0-4d80-484b-b649-044f1464ff4a}" />
+        <Item Id="{9c9bbf9d-c82c-450d-bafa-2d8b1f6a4a63}" />
+        <Item Id="{78fc30d9-aa85-4d78-a3f0-8eeb5a2e1496}" />
+        <Item Id="{cb08e1a8-1829-4409-87e1-d9a9d3eea8a3}" />
+        <Item Id="{96418b0c-83d3-4656-90c9-59d4139e045c}" />
+        <Item Id="{447c50a1-8ec8-44ee-9915-7f0548350093}" />
+        <Item Id="{a641e756-107f-4e82-9952-010819e35abe}" />
+        <Item Id="{4cada8e9-90e0-4fe3-8171-91a3735d1447}" />
+        <Item Id="{3888be66-16ab-4a3e-b416-144246345fa0}" />
+      </Categories>
+    </RootCategory>
+  </Options>
+</Root>
